@@ -23,9 +23,13 @@ The technology involves socket and multi-threading, but they are very basic, and
 3. 然后在提示后，您可以输入任何您想说的内容！
 
 ## demo
-客户端1/Client1:
-![客户端1/Client1](./client1_demo.png)
+客户端1/Client1:    
+![客户端1/Client1](./client1_demo.png)     
+
+  
 客户端2/Client2:
-![客户端1/Client1](./client2_demo.png)
-服务端/Server:
-![服务端/Server](./server_demo.png)
+![客户端1/Client1](./client2_demo.png)     
+
+  
+服务端/Server:   
+![服务端/Server](./server_demo.png)    
